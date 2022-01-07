@@ -7,6 +7,7 @@ Copyright(C)'2021 Ayanosuke(Maison de DCC)
 AYA063用
 
 2021/10/23
+
 2021/12/18 Function追加
 
 DCCドライバはNmraDccを使用しています。
