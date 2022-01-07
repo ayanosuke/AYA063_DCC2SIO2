@@ -1,6 +1,9 @@
 SMFDEasy_AYA063 DCC2SIOファンクションデコーダスケッチ
+
 Copyright(C)'2021 Ayanosuke(Maison de DCC)
+
 [AYA063_DCC2SIO.ino]
+
 AYA063用
 
 2021/10/23
